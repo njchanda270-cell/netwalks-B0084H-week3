@@ -37,43 +37,33 @@ Cracked in Johnny |
 | My Locked PDF3.pdf | 1qa2wsx | Crackedin Johnny |
 ### Evidence — Module 1
 **1. Hash Extraction**
-![HASH1](screenshots/module-1-johnny/
-01-hash1-notepad.png)
+![HASH1](screenshots/hash1.PNG)
 > Extracted `$pdf$` hash from My Locked
 PDF1.pdf using OnlineHashCrack.
-![HASH2](screenshots/module-1-johnny/
-02-hash2-notepad.png)
+![HASH2](screenshots/hash2.PNG)
 > Extracted `$pdf$` hash from My Locked
 PDF2.pdf.
-![HASH3](screenshots/module-1-johnny/
-03-hash3-notepad.png)
+![HASH3](screenshots/hash3.PNG)
 > Extracted `$pdf$` hash from My Locked
 PDF3.pdf.**2. Cracked in Johnny**
-![Johnny PDF1](screenshots/module-1-
-johnny/04-johnny-password1.png)
+![Johnny PDF1](screenshots/password1.PNG)
 > Johnny result for PDF1: `password1` —
 100% cracked.
-![Johnny PDF2](screenshots/module-1-
-johnny/05-johnny-good-luck.png)
+![Johnny PDF2](screenshots/goodluck.PNG)
 > Johnny result for PDF2: `good-luck` —
 100% cracked.
-![Johnny PDF3](screenshots/module-1-
-johnny/06-johnny-1qa2wsx.png)
+![Johnny PDF3](screenshots/1qaz2wsx.PNG)
 > Johnny result for PDF3: `1qa2wsx` —
 100% cracked.
 **3. Verification — PDFs Opened**
-![PDF1 Opened](screenshots/module-1-
-johnny/07-pdf1-opened-blurred.png)> PDF1 opened with `password1` —
-Congratulations / Flag page. Flag blurred
-for public sharing.
-![PDF2 Opened](screenshots/module-1-
-johnny/08-pdf2-opened-blurred.png)
+![PDF1 Opened](screenshots/pdf1.PNG)> PDF1 opened with `password1` —
+Congratulations
+![PDF2 Opened](screenshots/pdf2.PNG)
 > PDF2 opened with `good-luck` — Flag
-page. Flag blurred for public sharing.
-![PDF3 Opened](screenshots/module-1-
-johnny/09-pdf3-opened-blurred.png)
+page. 
+![PDF3 Opened](screenshots/pdf3.PNG)
 > PDF3 opened with `1qa2wsx` — Flag
-page. Flag blurred for public sharing.
+page. 
 ## Project Module 2 — NetworkWalks
 Tools
 ### Steps I Followed
@@ -88,9 +78,7 @@ Password Cracker
 | My Locked PDF1.pdf | password1 |
 PASSWORD CRACKED SUCCESSFULLY |
 ### Evidence — Module 2
-![Password Cracker](screenshots/
-module-2-networkwalks/11-password-
-cracker-password1.png)
+![Password Cracker](screenshots/passwordcracker.png)
 > NetworkWalks Password Cracker:
 `PASSWORD CRACKED SUCCESSFULLY` —
 `password1`
